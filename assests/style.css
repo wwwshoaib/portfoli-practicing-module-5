@@ -46,4 +46,25 @@
 
 .skills-container{
     display: flex;
+    gap: 24px;
+
+}
+
+
+/* contact section */
+
+.contact{
+    display: flex;
+    gap: 100px;
+}
+
+.contact .section-title{
+    text-align: left;
+}
+
+
+.contact input[ type ="text"], input[type ="email"], textarea{
+    margin-bottom: 24px;
+    width: 100%;
+    padding: 10px, 30px;
 }
