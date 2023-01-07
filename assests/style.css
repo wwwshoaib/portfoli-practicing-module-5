@@ -1,0 +1,49 @@
+*{
+    margin: opx;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.middle-text-color{
+    color:#FD6E0A ;
+}
+
+/* banner styles */
+
+.banner{
+    display: flex;
+    align-items: center;
+    margin: 0px 200px;
+}
+
+.banner-title{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.banner-sub-title{
+    font-weight: 600;
+    font-size: 45px;
+}
+
+.banner-description{
+    font-size: 18px;
+    font-weight: 400;
+    color: #757575;
+    
+}
+
+
+
+/* What I do section */
+
+.what-i-do{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.skills-container{
+    display: flex;
+}
